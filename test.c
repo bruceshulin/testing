@@ -4,3 +4,4 @@ int void main()
 {
 	printf("hello world");
 }
+//加注释
